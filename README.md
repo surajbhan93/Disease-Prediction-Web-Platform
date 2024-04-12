@@ -16,10 +16,10 @@ sitting at home.
 
 <b>TECHNOLOGY USED<b>
 
--Front end: HTML, CSS , Bootstrap, Javascript, Jquery
- Back end: Django (python based web framework)
--Database: Sqlite
--Tools: Vs code, Orange
+- Front end: HTML, CSS , Bootstrap, Javascript, Jquery.
+- Back end: Django (python based web framework).
+- Database: Sqlite.
+- Tools: Vs code, Orange.
 
 # How To Use This
 
